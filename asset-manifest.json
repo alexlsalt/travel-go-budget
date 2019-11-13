@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/travel-go-budget/static/css/main.27ea16b0.chunk.css",
+    "main.js": "/travel-go-budget/static/js/main.ef696323.chunk.js",
+    "main.js.map": "/travel-go-budget/static/js/main.ef696323.chunk.js.map",
+    "runtime~main.js": "/travel-go-budget/static/js/runtime~main.8d9518a4.js",
+    "runtime~main.js.map": "/travel-go-budget/static/js/runtime~main.8d9518a4.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/travel-go-budget/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/travel-go-budget/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/travel-go-budget/index.html",
+    "precache-manifest.40e70dab34eaa8ffcc61f8f88e278824.js": "/travel-go-budget/precache-manifest.40e70dab34eaa8ffcc61f8f88e278824.js",
+    "service-worker.js": "/travel-go-budget/service-worker.js",
+    "static/css/main.27ea16b0.chunk.css.map": "/travel-go-budget/static/css/main.27ea16b0.chunk.css.map",
+    "static/media/index.css": "/travel-go-budget/static/media/travel-min.10766ba1.jpg"
+  }
+}
