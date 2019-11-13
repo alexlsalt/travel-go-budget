@@ -1,0 +1,23 @@
+.button {
+  text-align: center;
+}
+
+a {
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  border: 2px solid black;
+  padding: 1.2rem;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  margin-bottom: 3rem;
+}
+
+a:hover {
+  background-color: lightblue;
+}
+
+a:active {
+  background-color: yellow;
+}
