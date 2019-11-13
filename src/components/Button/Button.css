@@ -2,7 +2,7 @@
   text-align: center;
 }
 
-a {
+.button a {
   font-size: 1.2rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -14,10 +14,10 @@ a {
   margin-bottom: 3rem;
 }
 
-a:hover {
+.button a:hover {
   background-color: lightblue;
 }
 
-a:active {
+.button a:active {
   background-color: yellow;
 }
