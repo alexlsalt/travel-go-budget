@@ -3,19 +3,15 @@ import './TextBox.css';
 import ideas from '../../TravelTip.js';
 
 
-const randomIndex = Math.floor(Math.random() * ideas.length);
-
-function displayTravelIdea () {
-  return ideas[randomIndex];
-}
-
-const idea = displayTravelIdea()
-
-
-
-
 class TextBox extends React.Component {
+  displayTravelIdea() {
+    const { index } = this.props;
+    return ideas[index];
+  }
+
   render() {
+    const idea = this.displayTravelIdea();
+
     return (
       <div className="textbox">
         <div className="compare">

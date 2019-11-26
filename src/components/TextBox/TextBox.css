@@ -36,8 +36,12 @@ p {
 
 @media screen only and (max-width: 860px) {
 
+  .compare h3 {
+      text-align: center;
+  }
+
   .description {
-    width: 100%;
+    width: 90%;
   }
 
   p {
@@ -49,5 +53,6 @@ p {
 @media screen only and (max-width: 600px) {
   .description {
     margin-top: 0.5rem;
+    padding: 2rem;
   }
 }
