@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6bcc4da47103ca70dd1e73f23e5de8d",
+    "revision": "8e170a82c0c5838c0770d3b39a6555ca",
     "url": "/travel-go-budget/index.html"
   },
   {
-    "revision": "dec7070c701b368adabd",
-    "url": "/travel-go-budget/static/css/main.095880ba.chunk.css"
+    "revision": "eec0d4dd937fcf8d7372",
+    "url": "/travel-go-budget/static/css/main.052868b2.chunk.css"
   },
   {
-    "revision": "9eee67cf782a38d35aeb",
-    "url": "/travel-go-budget/static/js/2.d6a534e5.chunk.js"
+    "revision": "2790c44532533aa1f119",
+    "url": "/travel-go-budget/static/js/2.2668f2aa.chunk.js"
   },
   {
-    "revision": "dec7070c701b368adabd",
-    "url": "/travel-go-budget/static/js/main.c347a545.chunk.js"
+    "revision": "eec0d4dd937fcf8d7372",
+    "url": "/travel-go-budget/static/js/main.22ee5a49.chunk.js"
   },
   {
     "revision": "bc4cef368bfc2a2219a3",
