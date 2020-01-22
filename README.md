@@ -8,4 +8,4 @@ As this project grows, I'm hoping to add more functionality, such as:
 - allowing visitors to submit their own budget travel destinations
 - allowing visitors to choose a continent and then only receive ideas for that particular continent
 
-This is the first JS/React project I've undertaken on my own (i.e. without following along with a tutorial) and I feel really proud of myself. Not bad for the first 15 minutes of my 27th year - happy birthday to me :D
+This is the first JS/React project I've undertaken on my own (i.e. without following along with a tutorial) and I feel really proud of myself. 
