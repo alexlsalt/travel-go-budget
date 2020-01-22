@@ -6,7 +6,7 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,5 +33,16 @@
   },
   "devDependencies": {
     "gh-pages": "^2.1.1"
+  },
+  "description": "This project was inspired by a crowd-sourced list of budget travel considerations for Time magazine from a group of inspiring, and very well-traveled folks I grew to be very close to at work.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexlsalt/travel-go-budget.git"
+  },
+  "author": "Alex Morton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexlsalt/travel-go-budget/issues"
   }
 }

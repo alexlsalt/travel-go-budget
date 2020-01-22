@@ -29,7 +29,7 @@ const ideas = [
   },
   {
     title: "Instead of the Seychelles, consider Lamu, Kenya.",
-    description: "Lamu is one of Africa’s oft-forgotten beach destinations that’s absolutely gorgeous with pristine white beaches and world-class resorts, yet it also provides affordable options for the budget traveler (think Forodhani House). It’s easily accessible via its airport, and it’s got excellent access to the internet. It’s also chock full of adventure and culture such as the annual Lamu Festival that includes a donkey race that’s rather exciting, and their dhow race that brings together different groups from across the island. There’s also a cool museum that traces the history of the Swahili people (plus it’s a World Heritage site). And last (but not least)- the cuisine is delicious - loads of fresh sea food, even cooked on the beach, and the nightlife is also quite fun and exciting."
+    description: "Lamu is one of Africa’s oft-forgotten beach destinations that’s absolutely gorgeous with pristine white beaches and world-class resorts, yet it also provides affordable options for the budget traveler. It’s easily accessible via its airport, and it’s got excellent access to the internet. It’s also full of adventure and culture including the annual Lamu Festival that includes an exciting donkey race, and a dhow race that brings together different groups from across the island. There’s also a cool museum that traces the history of the Swahili people (plus it’s a World Heritage site)."
   },
   {
     title: "Instead of Hawaii, consider Phu Quoc, Vietnam.",

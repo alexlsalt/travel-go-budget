@@ -1,4 +1,4 @@
-p {
+p { 
   font-size: 1.4rem;
   line-height: 1.2;
 }
@@ -8,6 +8,7 @@ p {
   flex-direction: column;
   margin-bottom: 5rem;
   font-weight: bold;
+  height: 25rem;
 }
 
 .compare {

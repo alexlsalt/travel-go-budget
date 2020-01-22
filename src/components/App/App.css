@@ -4,6 +4,7 @@ html {
   background-position: center;
   background-size: cover;
   background-image: url('/Users/alexmorton/Documents/projects/travel-go-budget/public/travel-min.jpg');
+  height: 100%;
 }
 
 .app {
