@@ -3,6 +3,8 @@ button {
   font-weight: bold;
   text-transform: uppercase;
   border: 2px solid black;
+  box-shadow: 5px 5px;
+  border-radius: 10px;
   padding: 1.2rem;
   text-decoration: none;
   color: black;
@@ -12,8 +14,9 @@ button {
 
 button:hover {
   background-color: lightblue;
+  cursor: pointer;
 }
 
 button:active {
-  background-color: yellow;
+  transform: scale(0.9);
 }
