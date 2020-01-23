@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/travel-go-budget/static/css/main.dc88d674.chunk.css",
-    "main.js": "/travel-go-budget/static/js/main.20fceb72.chunk.js",
-    "main.js.map": "/travel-go-budget/static/js/main.20fceb72.chunk.js.map",
+    "main.css": "/travel-go-budget/static/css/main.1035dbd8.chunk.css",
+    "main.js": "/travel-go-budget/static/js/main.832d6256.chunk.js",
+    "main.js.map": "/travel-go-budget/static/js/main.832d6256.chunk.js.map",
     "runtime~main.js": "/travel-go-budget/static/js/runtime~main.8d9518a4.js",
     "runtime~main.js.map": "/travel-go-budget/static/js/runtime~main.8d9518a4.js.map",
     "static/js/2.2668f2aa.chunk.js": "/travel-go-budget/static/js/2.2668f2aa.chunk.js",
     "static/js/2.2668f2aa.chunk.js.map": "/travel-go-budget/static/js/2.2668f2aa.chunk.js.map",
     "index.html": "/travel-go-budget/index.html",
-    "precache-manifest.8ddc8c5f309934cf54cb8222973cf6a8.js": "/travel-go-budget/precache-manifest.8ddc8c5f309934cf54cb8222973cf6a8.js",
+    "precache-manifest.24473903dfde03921a1d54010af34629.js": "/travel-go-budget/precache-manifest.24473903dfde03921a1d54010af34629.js",
     "service-worker.js": "/travel-go-budget/service-worker.js",
-    "static/css/main.dc88d674.chunk.css.map": "/travel-go-budget/static/css/main.dc88d674.chunk.css.map",
+    "static/css/main.1035dbd8.chunk.css.map": "/travel-go-budget/static/css/main.1035dbd8.chunk.css.map",
     "static/media/index.css": "/travel-go-budget/static/media/travel-min.10766ba1.jpg"
   }
 }
