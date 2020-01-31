@@ -1,5 +1,7 @@
 # travel-go-budget
-Website built with React that randomly generates an expertly-sourced budget travel idea when main button is clicked. Note: To view project code, please make sure you're viewing from the Master branch.
+Website built with React that randomly generates an expertly-sourced budget travel idea when main button is clicked. 
+
+*Note: To view project code, please make sure you're viewing from the Master branch.*
 
 This project was inspired by a crowd-sourced list of budget travel considerations for Time magazine from a group of inspiring, and very well-traveled folks I grew to be very close to at work.
 
